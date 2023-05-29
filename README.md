@@ -4,7 +4,7 @@
 
 
 - 🔭 Front-End Developer and Web Designer
-- 🌱 I’m currently mastering React and Qwik as frameworks and Typescript as main programming language!
+- 🌱 I’m currently mastering Astro and React as frameworks and Typescript as main programming language!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm all about Pokémon, games and geek stuff 🤓
 
